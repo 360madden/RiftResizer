@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build / temp
+bin/
+obj/
+out/
+dist/
+build/
+.temp/
+.tmp/
+*.tmp
+
+# Archives
+*.zip
+*.7z
+*.rar
