@@ -23,4 +23,3 @@
 ## Non-Goals For Now
 - input broadcasting
 - automation logic unrelated to window placement
-- cloning every ISBoxer or OpenMultiBoxing feature
